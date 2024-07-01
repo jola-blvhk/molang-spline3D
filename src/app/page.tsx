@@ -11,7 +11,7 @@ export default function Home() {
           fill
           objectFit="contain"
           alt="cloud image"
-          className="w-[50%] h-[50%] md:w-[100%]"
+          className="w-[50%] h-auto md:w-[100%]"
         />
         <div className="text-center text-sm md:text-base  z-[100] w-fit my-auto text-[#FF7661]">
           <p className="">Hover to interact.</p>
